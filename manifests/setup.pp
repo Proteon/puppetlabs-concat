@@ -1,0 +1,3 @@
+class concat::setup {
+#placeholder
+}
